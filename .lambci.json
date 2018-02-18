@@ -1,3 +1,4 @@
 {
+	"cmd": "chmod +x terraform-build.sh",
 	"cmd": "./terraform-build.sh"
 }
