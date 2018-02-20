@@ -13,6 +13,3 @@
 		}
 	}
 }
-
-## TODO: Building from anything that isn't master needs to be safe from any external influence. Either hardcode everything in cmd ...
-## Need to test scenario where I open a PR and modify .lambci.json as a part of it. What happens?
